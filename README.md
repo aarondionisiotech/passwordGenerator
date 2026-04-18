@@ -26,3 +26,7 @@ Piccola applicazione web che genera password casuali con JavaScript e mostra il 
 
 ## Note
 La password viene generata in modo casuale combinando caratteri maiuscoli, minuscoli, numeri e simboli.
+
+## Demo
+
+![Screenshot](demo/screenshot.png)
